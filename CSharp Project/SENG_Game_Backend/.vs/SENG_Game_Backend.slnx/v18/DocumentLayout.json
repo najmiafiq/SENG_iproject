@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{777F68AF-799D-CF8F-BA04-9FE7813C6661}|SENG_Game_Backend.csproj|e:\\git_seng\\seng_iproject\\csharp project\\seng_game_backend\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777F68AF-799D-CF8F-BA04-9FE7813C6661}|SENG_Game_Backend.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777F68AF-799D-CF8F-BA04-9FE7813C6661}|SENG_Game_Backend.csproj|e:\\git_seng\\seng_iproject\\csharp project\\seng_game_backend\\app\\dataanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777F68AF-799D-CF8F-BA04-9FE7813C6661}|SENG_Game_Backend.csproj|solutionrelative:app\\dataanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777F68AF-799D-CF8F-BA04-9FE7813C6661}|SENG_Game_Backend.csproj|e:\\git_seng\\seng_iproject\\csharp project\\seng_game_backend\\src\\charactercatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777F68AF-799D-CF8F-BA04-9FE7813C6661}|SENG_Game_Backend.csproj|solutionrelative:src\\charactercatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777F68AF-799D-CF8F-BA04-9FE7813C6661}|SENG_Game_Backend.csproj|e:\\git_seng\\seng_iproject\\csharp project\\seng_game_backend\\src\\fightercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777F68AF-799D-CF8F-BA04-9FE7813C6661}|SENG_Game_Backend.csproj|solutionrelative:src\\fightercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777F68AF-799D-CF8F-BA04-9FE7813C6661}|SENG_Game_Backend.csproj|e:\\git_seng\\seng_iproject\\csharp project\\seng_game_backend\\project idea.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{777F68AF-799D-CF8F-BA04-9FE7813C6661}|SENG_Game_Backend.csproj|solutionrelative:project idea.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAnalyzer.cs",
+              "DocumentMoniker": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\app\\DataAnalyzer.cs",
+              "RelativeDocumentMoniker": "app\\DataAnalyzer.cs",
+              "ToolTip": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\app\\DataAnalyzer.cs",
+              "RelativeToolTip": "app\\DataAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:40:16.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterCatalog.cs",
+              "DocumentMoniker": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\src\\CharacterCatalog.cs",
+              "RelativeDocumentMoniker": "src\\CharacterCatalog.cs",
+              "ToolTip": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\src\\CharacterCatalog.cs",
+              "RelativeToolTip": "src\\CharacterCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:37:30.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FighterCharacter.cs",
+              "DocumentMoniker": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\src\\FighterCharacter.cs",
+              "RelativeDocumentMoniker": "src\\FighterCharacter.cs",
+              "ToolTip": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\src\\FighterCharacter.cs",
+              "RelativeToolTip": "src\\FighterCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:30:44.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:53:30.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "project idea.txt",
+              "DocumentMoniker": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\project idea.txt",
+              "RelativeDocumentMoniker": "project idea.txt",
+              "ToolTip": "E:\\git_SENG\\SENG_iproject\\CSharp Project\\SENG_Game_Backend\\project idea.txt",
+              "RelativeToolTip": "project idea.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-27T16:47:22.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
