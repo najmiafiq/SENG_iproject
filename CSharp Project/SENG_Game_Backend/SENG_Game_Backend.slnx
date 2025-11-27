@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="SENG_Game_Backend.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="GameBackend.Test/GameBackend.Test.csproj" Id="90faf7ac-69f0-40bf-bb45-da67670eb04a" />
+  <Project Path="GameBackend/SENG_Game_Backend.csproj" />
 </Solution>
